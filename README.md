@@ -20,10 +20,10 @@ Prerequisites
 Python 3.x
 
 Running the Game
-Save the code in a file, for example hangman.py.
+Save the code in a file, for example Hangman game.py.
 Open a terminal or command prompt.
 Run the game using:
-python hangman.py
+Hangman game.py
 
 Output Example
 === Welcome to Hangman ===
